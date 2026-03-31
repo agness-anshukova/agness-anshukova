@@ -1,7 +1,6 @@
 # Hi, I'm Agniya
 
-Aspiring **Junior Data Analyst** | Entry-level **LegalTech** enthusiast
-Python | SQL / PL/SQL | Pandas 
+**SQL Developer/Data Analyst** | Oracle | PostgreSQL (Learning) | Python | Data Analysis
 
 ---
 
